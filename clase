@@ -1,0 +1,16 @@
+clase
+ - template
+
+objeto - una instancia de una clase
+
+clase silla
+    propiedades
+        -patas
+        -posadera
+        -respaldar
+
+objeto silla de casa
+    propiedades
+        -patas: 4
+        -posadera: madera
+        -respaldar: plastico

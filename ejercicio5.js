@@ -3,6 +3,6 @@
 let word = "perro"
 let num1 = 5
 
-for(let i = 0; i< num1; i++){
-    console.log(word)
+for(let i = 0; i < num1; i++){
+    console.log(word);
 }
