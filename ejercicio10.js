@@ -12,7 +12,6 @@ for (let i = 0; i < word.length; i++) {
     } else{
         letras[letra] = 1;
     }
-
 }
 
 console.log(letras)
